@@ -12,3 +12,15 @@
 - Ручное тестирование 
 
 [certificate Ручное тестирование.pdf](https://github.com/Anna-64/Anna-64/files/9386894/certificate.pdf)
+
+-  Git 
+
+[certificate Git.pdf](https://github.com/Anna-64/Anna-64/files/9386897/certificate.Git.pdf)
+
+- Java
+
+[certificate Java.pdf](https://github.com/Anna-64/Anna-64/files/9386898/certificate.Java.pdf)
+
+- Автоматизированное тестирование
+
+[certificate Автоматизированное тестирование.pdf](https://github.com/Anna-64/Anna-64/files/9386899/certificate.pdf)
